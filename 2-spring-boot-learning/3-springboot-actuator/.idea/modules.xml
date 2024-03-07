@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/3-springboot-actuator.iml" filepath="$PROJECT_DIR$/.idea/3-springboot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spapi/spapi.iml" filepath="$PROJECT_DIR$/spapi/spapi.iml" />
+    </modules>
+  </component>
+</project>

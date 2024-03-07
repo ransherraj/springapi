@@ -1,0 +1,9 @@
+2024-02-15T11:06:27.633+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] o.s.b.a.ApplicationAvailabilityBean      : Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2024-02-15T11:06:27.753+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@628d1ee7, started on Wed Feb 14 17:36:40 IST 2024
+2024-02-15T11:06:27.798+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147482623
+2024-02-15T11:06:27.798+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'webServerGracefulShutdown' completed its stop procedure
+2024-02-15T11:06:27.798+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147481599
+2024-02-15T11:06:27.848+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'webServerStartStop' completed its stop procedure
+2024-02-15T11:06:27.848+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase -2147483647
+2024-02-15T11:06:27.853+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] o.s.c.support.DefaultLifecycleProcessor  : Bean 'springBootLoggingLifecycle' completed its stop procedure
+2024-02-15T11:06:27.858+05:30 DEBUG 6560 --- [SpringApplicationShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
